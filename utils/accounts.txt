@@ -1,0 +1,11 @@
+[
+    {
+        "email": "marco.rossi@email.com"
+    },
+    {
+        "email": "federico.greco@email.com"
+    },
+    {
+        "email": "arianna.lezzi@email.com"
+    }
+]
